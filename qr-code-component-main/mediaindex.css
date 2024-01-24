@@ -1,0 +1,29 @@
+@media screen and (max-width:449px) {
+    .main-container {
+        max-width: 85%;
+    }
+}
+
+@media screen and ((min-width: 450px) and (max-width:529px)) {
+    .main-container {
+        max-width: 70%;
+    }
+}
+
+@media screen and ((min-width: 530px) and (max-width:674px)) {
+    .main-container {
+        max-width: 60%;
+    }
+}
+
+@media screen and ((min-width: 675px) and (max-width:799px)) {
+    .main-container {
+        max-width: 50%;
+    }
+}
+
+@media screen and ((min-width: 800px) and (max-width:1200px)) {
+    .main-container {
+        max-width: 38%;
+    }
+}
